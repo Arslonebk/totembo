@@ -44,8 +44,6 @@ button {
     line-height: 23px;
     /* 71.875% */
     text-transform: uppercase;
-    animation: logotip 5s 1 linear;
-    overflow: hidden;
 }
 
 .header__list {
